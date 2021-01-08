@@ -26,7 +26,7 @@
 
 ## 🛠 Technical Skills 🛠 
 
-<img align='right' src='https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/coding-freak.gif' width="330" height="290" >
+<img align='left' src='https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/coding-freak.gif' width="330" height="290" >
 
 
 💫<b> Automation is the Future of Information Technology </b>💫 🎯As an Engineer We should belive on Right Meaning of Technologies.🎯 Currently Working On Integration Of Various Tools & Technologies Under the Mentorship of The World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in one of the Best Technical Training program In the World as [<b>Arth-the school of technologies</b>](https://rightarth.com/) Under [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
@@ -49,7 +49,7 @@
  
 <h3 align="left">👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 </h3>
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/7139c9e132669abc7c8ad116787b638c.gif" height="280"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/7139c9e132669abc7c8ad116787b638c.gif" height="280"/>
   
   [![Terraform](https://img.shields.io/badge/Automation-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
   ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=red)
