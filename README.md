@@ -2,11 +2,10 @@
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="https://github.com/Onkar179/Onkar179/blob/main/images/6e3f47bf33153bd352d684a4d0ddea12.gif" />
+  <img align="left" alt="GIF" src="https://github.com/Onkar179/Onkar179/blob/main/images/6e3f47bf33153bd352d684a4d0ddea12.gif"  width="240" height="230"/>
   
   </div>
-  .  
-  <!--social media icon-->
+ 
 <div align="center">
  
  
