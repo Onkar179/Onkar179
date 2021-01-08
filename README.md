@@ -50,6 +50,7 @@
 <h3 align="left">👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 </h3>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/7139c9e132669abc7c8ad116787b638c.gif" width = "400" height="250"/>
+<br>
   
   [![Terraform](https://img.shields.io/badge/Automation-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
   ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=red)
@@ -74,6 +75,7 @@
  ![Flutter](https://img.shields.io/badge/App%20Development%20-Flutter-green??style=flat&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 
+</br>
 </br>
 </br>
 </br>
