@@ -2,7 +2,7 @@
 
 <!--Header-->
   <div>
-  <img align="center" alt="GIF" src="https://github.com/Onkar179/Onkar179/blob/main/images/6e3f47bf33153bd352d684a4d0ddea12.gif"  width="100" height="230"/>
+  <img align="center" alt="GIF" src="https://github.com/Onkar179/Onkar179/blob/main/images/6e3f47bf33153bd352d684a4d0ddea12.gif"  width="500" height="280"/>
   
   </div>
  
