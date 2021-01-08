@@ -1,6 +1,6 @@
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/8398c1a2198a65472e1ac361ffab77e3.gif" width="900" height="250"/>
+  <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/8398c1a2198a65472e1ac361ffab77e3.gif" width="1000" height="450"/>
   
   </div>
   .
