@@ -26,7 +26,7 @@
 
 ## 🛠 Technical Skills 🛠 
 
-<img align='left' src='https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/coding-freak.gif' width="330" height="290" >
+<img align='right' src='https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/coding-freak.gif' width="330" height="290" >
 
 
 💫<b> Automation is the Future of Information Technology </b>💫 🎯As an Engineer We should belive on Right Meaning of Technologies.🎯 Currently Working On Integration Of Various Tools & Technologies Under the Mentorship of The World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in one of the Best Technical Training program In the World as [<b>Arth-the school of technologies</b>](https://rightarth.com/) Under [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
