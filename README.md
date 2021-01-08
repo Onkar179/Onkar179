@@ -44,6 +44,8 @@
 <div>
 <br>
 <br>
+ 
+<h3 align="left">Tools & Technolgies</h3>
 
   [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
@@ -64,7 +66,7 @@
  [![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
-![Flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)
+![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 
 </br>
 </br>
