@@ -5,20 +5,7 @@
   </div>
   .
   
-  ## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓  
-<div align = "center">
-<style>
-div.c {
-  font-size: 150%;
-}
-</style>
-  <body>
-<div class="c">This is some text.</div>
-
-</body>
-
-</div>
-
+  <h2> Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Onkar Here 👨‍🎓</h2> 
 
 <!--About Me-->
 <div>
