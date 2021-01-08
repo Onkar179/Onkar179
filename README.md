@@ -1,8 +1,8 @@
-## Hi <Developers/>! <img src="https://github.com/Onkar179/Onkar179/blob/main/images/6e3f47bf33153bd352d684a4d0ddea12.gif" width="29px">, I am Onkar 👨‍🎓
+## Hi <Developers/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓
 
 <!--Header-->
   <div>
-  <img align="left" alt="GIF" src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/header.gif" />
+  <img align="left" alt="GIF" src="https://github.com/Onkar179/Onkar179/blob/main/images/6e3f47bf33153bd352d684a4d0ddea12.gif" />
   
   </div>
   .  
