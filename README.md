@@ -8,7 +8,7 @@
   ## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓  
   
   <div align="center">
-  <h style="font-size:50px; font-family:courier">I am big</h>
+  <h style="font-size:50px;>I am big</h>
   </div>
 
 
