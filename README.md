@@ -6,8 +6,18 @@
   .
   
   ## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓  
-  
-<p style="font-size:50px;">I am big</p>
+<div align = "center">
+<style>
+div.c {
+  font-size: 150%;
+}
+</style>
+  <body>
+<div class="c">This is some text.</div>
+
+</body>
+
+</div>
 
 
 <!--About Me-->
