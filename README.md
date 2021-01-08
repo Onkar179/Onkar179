@@ -5,16 +5,7 @@
   </div>
   .
   
-  ## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓
- 
-<div align="center">
- 
- 
-[![Linkedin Badge](https://img.shields.io/badge/-Onkar%20Naik-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/onkar17/)](https://www.linkedin.com/in/onkar17/)<span>[![GitHub followers](https://img.shields.io/github/followers/Onkar179?label=Follow&style=social)](https://github.com/Onkar179/?tab=follow)</span>[![Instagram Badge](https://img.shields.io/badge/-Onkar%20Naik-blue?style=social&logo=Instagram&link=https://www.instagram.com/this__is__on__179/)](https://www.instagram.com/hackcoderr/)![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Onkar179.Onkar179)
-
-</div>  
-
-</br>
+  ## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓  
 
 
 <!--About Me-->
