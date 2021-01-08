@@ -41,8 +41,7 @@
 
 
 <!--My Hobbies-->
-<br>
-## My Hobbies ✍
+<h3 align="left"><b>Technologies and Tools</b></h3>
 
   [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
