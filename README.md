@@ -1,11 +1,11 @@
-## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓
-
 <!--Header-->
   <div>
   <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/1_RTGHo8x278rzhj2cZSjwtA.gif" height="480" height="100"/>
   
   </div>
   .
+  
+  ## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓
  
 <div align="center">
  
