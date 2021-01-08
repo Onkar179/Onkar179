@@ -44,6 +44,8 @@
 <div>
 <br>
 <br>
+<br>
+<br>
  
 <h3 align="left">👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 </h3>
 
@@ -70,6 +72,8 @@
  ![Flutter](https://img.shields.io/badge/App%20Development%20-Flutter-green??style=flat&logo=flutter)
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 
+</br>
+</br>
 </br>
 </br>
 
