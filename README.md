@@ -17,7 +17,7 @@
 ## About Me ✍
 
  
- This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b>👨🏼‍💻 I am <b>DevOps Automation & Hybrid Multi Cloud Computing Enthusiast</b> Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies  
+ This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b>👨🏼‍💻 I am <b>DevOps Automation & Hybrid Multi Cloud Computing Enthusiast Having a Good Leadership & Management Skills .</b> Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies .<b>Automation</b> is close to my heart Actively trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure .
 
 
 </div>
