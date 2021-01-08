@@ -41,6 +41,8 @@
 
 
 <!--My Hobbies-->
+<div>
+<br>
 <h3 align="left"><b>Technologies and Tools</b></h3>
 
   [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
@@ -68,6 +70,8 @@
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 </br>
+
+</div>
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
