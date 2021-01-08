@@ -1,5 +1,5 @@
 <!--Header-->
-### Hi Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Onkar Here 👨‍🎓
+                       ### Hi Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Onkar Here 👨‍🎓
   <div>
   <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/8398c1a2198a65472e1ac361ffab77e3.gif" width="1000" height="450"/>
   
@@ -9,7 +9,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/oct-about.png"> 
+  <img width="240" height="230" align='right' src="https://github.com/Onkar179/Onkar179/blob/main/images/coding-freak.gif"> 
 </p>
   
 
