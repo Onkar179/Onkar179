@@ -41,9 +41,9 @@
 
 
 <!--My Hobbies-->
+<div> 
  
- 
-
+<br>
 ### My Hobbies ✍
 
   [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
@@ -70,8 +70,8 @@
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
-
-
+</br>
+</div>
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
