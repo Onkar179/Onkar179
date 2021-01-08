@@ -31,7 +31,7 @@
 
 💫<b> Automation is the Future of Information Technology </b>💫 🎯As an Engineer We should belive on Right Meaning of Technologies.🎯 Currently Working On Integration Of Various Tools & Technologies Under the Mentorship of The World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in one of the Best Technical Training program In the World as [<b>Arth-the school of technologies</b>](https://rightarth.com/) Under [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
-### Programming Languages 
+## Programming Languages 
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -41,10 +41,8 @@
 
 
 <!--My Hobbies-->
-<div> 
- 
 <br>
-### My Hobbies ✍
+## My Hobbies ✍
 
   [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
@@ -71,7 +69,6 @@
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 ![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
 </br>
-</div>
 <!--Github Progess bar-->
 
 ## Quick Overview 📝
