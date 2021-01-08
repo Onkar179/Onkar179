@@ -9,7 +9,7 @@
 <!--About Me-->
 <div>
  <p>
-  <img width="260" height="280" align='right' src="https://github.com/Onkar179/Onkar179/blob/main/images/coding-freak.gif"> 
+  <img width="300" height="280" align='right' src="https://github.com/Onkar179/Onkar179/blob/main/images/coding-freak.gif"> 
 </p>
   
 
