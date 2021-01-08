@@ -17,7 +17,7 @@
 ## About Me ✍
 
  
- This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b> 
+ This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b>👨🏼‍💻 I am <b>DevOps Automation & Hybrid Multi Cloud Computing Enthusiast</b>  
 
 
 </div>
