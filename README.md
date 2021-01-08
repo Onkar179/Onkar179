@@ -8,7 +8,7 @@
   ## Hi <coders/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Onkar 👨‍🎓  
   
   <div align="center">
-  <font face = "DevOps Automation & Cloud Computing" size ="10">Comic Sans MS</font><br />
+  <font face = "DevOps Automation & Cloud Computing" colour = "green" size =" 10">Comic Sans MS</font><br />
   </div>
 
 
