@@ -49,6 +49,8 @@
  
 <h3 align="left">👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 </h3>
 
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/7139c9e132669abc7c8ad116787b638c.gif" height="280"/>
+  
   [![Terraform](https://img.shields.io/badge/Automation-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
   ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=red)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
