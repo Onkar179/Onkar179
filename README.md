@@ -10,8 +10,8 @@
 <div align="center">
  
  
-[![Linkedin Badge](https://img.shields.io/badge/-Onkar%20Naik-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/onkar17/)](https://www.linkedin.com/in/onkar17/)[![GitHub followers](https://img.shields.io/github/followers/Onkar179?label=Follow&style=social)](https://github.com/Onkar179/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-Onkar179-blue?style=social&logo=Instagram&link=https://www.instagram.com/this__is__on__179/)](https://www.instagram.com/hackcoderr/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Onkar%20Naik-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/onkar17/)](https://www.linkedin.com/in/onkar17/)<br>[![GitHub followers](https://img.shields.io/github/followers/Onkar179?label=Follow&style=social)](https://github.com/Onkar179/?tab=follow)</br>
+[![Instagram Badge](https://img.shields.io/badge/-Onkar%20Naik-blue?style=social&logo=Instagram&link=https://www.instagram.com/this__is__on__179/)](https://www.instagram.com/hackcoderr/) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Onkar179.Onkar179)
 
 </div>  
