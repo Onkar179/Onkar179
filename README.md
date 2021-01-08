@@ -14,7 +14,7 @@
   
 
 
-## About Me ✍
+##  ✍ About Me ✍
 
  
  This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b>👨🏼‍💻 I am <b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b> 🤩Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies🤩 .<b>⚡Automation⚡</b> is close to my heart ✅ Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure .
@@ -24,7 +24,7 @@
 
 <!--technical skills-->
 
-## Technical Skills 🛠 
+## 🛠 Technical Skills 🛠 
 
 <img align='left' src='https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/coding-freak.gif' width="330" height="290" >
 
@@ -44,7 +44,7 @@
 <div>
 <br>
 <br>
-<h3 align="left"><b>Technologies and Tools</b></h3>
+<h3 align="left"><b>👩🏼‍💻 Tools & Technologies 👨🏼‍💻 </b></h3>
 
   [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 [![AWS](https://img.shields.io/badge/Learning-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
