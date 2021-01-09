@@ -1,5 +1,5 @@
 <!--Header-->
-### Hi Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Onkar Here 👨‍🎓
+### Hi Dev'S <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Onkar Here 👨‍🎓
   <div>
   <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/8398c1a2198a65472e1ac361ffab77e3.gif" width="1000" height="450"/>
   
@@ -109,7 +109,7 @@
 <!--footer-->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://wa.me/+919084369325) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>✨ Belive In Right Education ✨ 🥇 Keep Learning 🥇 😊 Keep Sharing 😊 🤩 Keep Connecting🤩  feel free to [reach out](https://wa.me/+9370812658)</b> 😊 💜</em>
 
 
 <div align="center">
