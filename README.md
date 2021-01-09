@@ -108,8 +108,7 @@
 
 <!--footer-->
 
-##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> 🔰 Belive In Right Education 🔰 🥇 Keep Learning 🥇  🤝🏼 Keep Sharing 🤝🏼 🤩 Keep Connecting 🤩 Feel Free to [Connect Me](https://wa.me/+9370812658) </b></em>
+## <em><b> 🔰 Belive In Right Education 🔰 🥇 Keep Learning 🥇  🤝🏼 Keep Sharing 🤝🏼 🤩 Keep Connecting 🤩 Feel Free to [Connect Me](https://wa.me/+9370812658) </b></em>
 
 
 <div align="center">
