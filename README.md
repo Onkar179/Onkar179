@@ -60,6 +60,7 @@
 ![Openstack](https://img.shields.io/badge/-Openstack-yellow?style=flat-square&logo=openstack&logoColor=red)
 ![YAML](https://img.shields.io/badge/Scripting%20Language%20-YAML-purple?style=flat-square)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![WebDevelopment ](https://img.shields.io/badge/-Web%20Development-purple?style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql&logoColor=green)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git)
