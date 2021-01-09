@@ -17,7 +17,7 @@
 ##  ✍ About Me ✍
 
  
- This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b>👨🏼‍💻 I am <b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b> 🤩Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies🤩 .<b>⚡Automation⚡</b> is close to my heart ✅ Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure .
+ This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b>👨🏼‍💻 I am <em><b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b></em> 🤩Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies🤩 .<b>⚡Automation⚡</b> is close to my heart ✅ Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure .
 
 
 </div>
@@ -31,6 +31,10 @@
 
 💫<b> Automation is the Future of Information Technology </b>💫 🎯As an Engineer We should belive on Right Meaning of Technologies.🎯 Currently Working On Integration Of Various Tools & Technologies Under the Mentorship of The World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in one of the Best Technical Training program In the World as [<b>Arth-the school of technologies</b>](https://rightarth.com/) Under [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
+<div>
+  
+<br>
+
 ## 💠 Programming Languages 💠
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -38,6 +42,9 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+</br>
+</div>
 
 
 <!--My Hobbies-->
