@@ -58,8 +58,7 @@
 <div>
 <br>
 <br>
-<br>
-<br>
+
  
 <h3 align="left">👨🏼‍💻 Tools & Technolgies 👨🏼‍💻 </h3>
 
@@ -98,9 +97,6 @@
  ![Dart](https://img.shields.io/badge/Android%20Language%20-Dart-yellow??style=flat&logo=dart&logoColor=yellow)
 ![Android](https://img.shields.io/badge/-Android-red?logo=android&style=social)&nbsp;&nbsp;
 
-</br>
-</br>
-</br>
 </br>
 </br>
 
