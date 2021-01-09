@@ -9,7 +9,6 @@
 
 <!--About Me-->
 <div>
-  <br>
   
  <p>
   <img width="380" height="240" align='right' src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/unnamed.gif"> 
@@ -22,7 +21,7 @@
  
  This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b>👨🏼‍💻 I am <em><b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b></em> 🤩Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies🤩 .<b>⚡Automation⚡</b> is close to my heart ✅ Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure .
 
-</br>
+
 </div>
 
 <!--technical skills-->
