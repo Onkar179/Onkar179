@@ -114,7 +114,7 @@
 
 
 <!--footer-->
-<div>
+<div align="center">
 <br>
  
 ## <em><b> 🔰 Belive In Right Education 🔰 🥇 Keep Learning 🥇  🤝🏼 Keep Sharing 🤝🏼 </b></em> 
