@@ -1,13 +1,16 @@
 <!--Header-->
 ### Hi Dev's <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Onkar Here 👨‍🎓
   <div>
+  <br>
   <img align="left" alt="GIF" src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/8398c1a2198a65472e1ac361ffab77e3.gif" width="1000" height="450"/>
-  
+  </br>
   </div>
-  .
+  
 
 <!--About Me-->
 <div>
+  <br>
+  
  <p>
   <img width="380" height="240" align='right' src="https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/unnamed.gif"> 
 </p>
@@ -19,17 +22,22 @@
  
  This is <b> Onkar Naik</b>, A pursuing <b>Information Technology Student</b>👨🏼‍💻 I am <em><b>DevOps Automation & ☁ Hybrid Multi Cloud Computing ☁Enthusiast Having a Good Leadership & Management Skills .</b></em> 🤩Seeking an opportunity to work in challenging environment which helps me to enhance & use my skills to develop sustainable technologies🤩 .<b>⚡Automation⚡</b> is close to my heart ✅ Actively Trying to Integrate Multiple Technologies together for optimized Configuration & Infrastructure .
 
-
+</br>
 </div>
 
 <!--technical skills-->
-
+<div>
+<br>
+  
 ## 🛠 Technical Skills 🛠 
 
 <img align='left' src='https://raw.githubusercontent.com/Onkar179/Onkar179/main/images/coding-freak.gif' width="330" height="290" >
 
 
 💫<b> Automation is the Future of Information Technology </b>💫 🎯As an Engineer We should belive on Right Meaning of Technologies.🎯 Currently Working On Integration Of Various Tools & Technologies Under the Mentorship of The World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in one of the Best Technical Training program In the World as [<b>Arth-the school of technologies</b>](https://rightarth.com/) Under [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
+
+</br>
+</div>
 
 <div>
   
