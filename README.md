@@ -68,6 +68,7 @@
  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
  ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
  ![Hadoop](https://img.shields.io/badge/-Hadoop-D22128?style=flat-square&logo=apache-hadoop&logoColor=violet)
+ ![Hadoop](https://img.shields.io/badge/-Big-Data-yellow?style=flat-square&logo=bigdata&logoColor=violet)
  ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
  ![RedHat](https://img.shields.io/badge/OS-RedHat--8-red?style=flat-square&logo=redhat8&logoColor=black)
