@@ -109,10 +109,12 @@
 <!--footer-->
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>✨ Belive In Right Education ✨ 🥇 Keep Learning 🥇 😊 Keep Sharing 😊 🤩 Keep Connecting🤩  feel free to [reach out](https://wa.me/+9370812658)</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> ✨ Belive In Right Education ✨  🥇 Keep Learning 🥇  😊 Keep Sharing 😊  🤩 Keep Connecting 🤩  🤝🏼 Feel Free to [Connect Me](https://wa.me/+9370812658)</b> 😊 💜</em>
 
 
 <div align="center">
+<br>
+<br>
 <a href="https://github.com/Onkar179/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -123,6 +125,8 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
+</br>
+</br>
 
 
 </div>  
