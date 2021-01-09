@@ -53,7 +53,7 @@
 <br>
   
   [![Terraform](https://img.shields.io/badge/Automation-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-  ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=red)
+  ![Ansible](https://img.shields.io/badge/Automation-Ansible-yellow??style=flat-square&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-yellow?style=flat-square&logo=amazon-aws&logoColor=white)
 ![EKS](https://img.shields.io/badge/EKS-AWS-purple?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -79,7 +79,7 @@
 ![Openstack](https://img.shields.io/badge/-Openstack-yellow?style=flat-square&logo=openstack&logoColor=red)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  ![Flutter](https://img.shields.io/badge/App%20Development%20-Flutter-green??style=flat&logo=flutter)
- ![Dart](https://img.shields.io/badge/Android%20Language%20-Dart-yellow??style=flat&logo=dart&logoColor=blue)
+ ![Dart](https://img.shields.io/badge/Android%20Language%20-Dart-yellow??style=flat&logo=dart&logoColor=yellow)
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 
 </br>
