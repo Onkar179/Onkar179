@@ -79,6 +79,7 @@
 ![Openstack](https://img.shields.io/badge/-Openstack-yellow?style=flat-square&logo=openstack&logoColor=red)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  ![Flutter](https://img.shields.io/badge/App%20Development%20-Flutter-green??style=flat&logo=flutter)
+ ![Dart](https://img.shields.io/badge/Android%20Language%20-Dart-yellow??style=flat&logo=dart&logoColor=blue)
 ![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)&nbsp;&nbsp;
 
 </br>
