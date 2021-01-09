@@ -58,6 +58,7 @@
 ![EKS](https://img.shields.io/badge/EKS-AWS-purple?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Openstack](https://img.shields.io/badge/-Openstack-yellow?style=flat-square&logo=openstack&logoColor=red)
+![YAML](https://img.shields.io/badge/Scripting%20Language%20-YAML-purple?style=flat-square)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=yellow)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
