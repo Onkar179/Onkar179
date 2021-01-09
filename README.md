@@ -76,7 +76,7 @@
  ![BashScripting](https://img.shields.io/badge/-BashScripting-blue?style=flat-square)
  ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
- ![RedHat](https://img.shields.io/badge/OS-RedHat--8-red?style=flat-square&logo=redhat8&logoColor=black)
+ ![RedHat](https://img.shields.io/badge/OS-RedHat--8-red?style=flat-square&logo=RedHat8&logoColor=black)
  [![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
  ![Anaconda](https://img.shields.io/badge/Anaconda-Jupyter%20Notebook-purple?style=flat-square&logo=Anaconda)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
@@ -93,7 +93,7 @@
 </div>
 <!--Github Progess bar-->
 
-## Quick Overview 📝
+## 📝 Quick Overview 📝
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Onkar179&show_icons=true&include_all_commits=true&theme=radical" alt="Onkar's github stats" />
@@ -113,18 +113,13 @@
 
 
 <div align="center">
-<a href="https://github.com/hackcoderr" target="_blank">
+<a href="https://github.com/Onkar179/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/hackcoderr" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@hackcoderr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/hackcoderr" target="_blank">
+<a href="https://linkedin.com/in/onkar17/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/hackcoderr" target="_blank">
+<a href="https://www.instagram.com/this__is__on__179/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 
@@ -134,12 +129,6 @@
   
 
 <br/>  
-
-
-<p align="center"> 
- <b> Can you break this count?</b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
-</p>
 
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
